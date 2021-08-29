@@ -8,6 +8,7 @@ This Generator exist in:
 - Kotlin
 - Python
 - Rust
+- PHP
 
 
 ## Generator
