@@ -1,3 +1,5 @@
+![GitHub language count](https://img.shields.io/github/languages/count/newspicel/ReadableNameGenerator)
+![GitHub top language](https://img.shields.io/github/languages/top/Newspicel/ReadableNameGenerator)
 # ReadableNameGenerator
 A simple name generator that can generate readable names in a few Languages
 
