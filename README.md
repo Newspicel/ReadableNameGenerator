@@ -1,8 +1,20 @@
 # ReadableNameGenerator
 A simple name generator that can generate readable names in a few Languages
 
+This Generator exist in:
+- Java
+- Javascript
+- Typescript
+- Kotlin
+- Python
+
 
 ## Generator
+It generates the length of the word, which can be set via the variables min and max.
+The basic principle works like this: It first selects a random letter from the list "starts". 
+Then it looks in the list "speakable" for the list of possible letters and adds them at the end. It then repeats this as often as set.
+
+
 ```python
 starts = ["a", "b", "c", "d", "e", "f", "g", "i", "j", "k", "l", "m", "n", "o", "r", "p", "s", "t", "u"]
 
