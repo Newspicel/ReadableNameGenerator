@@ -7,6 +7,7 @@ This Generator exist in:
 - Typescript
 - Kotlin
 - Python
+- Rust
 
 
 ## Generator
