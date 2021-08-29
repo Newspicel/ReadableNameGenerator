@@ -10,6 +10,12 @@ This Generator exist in:
 - Rust
 - PHP
 
+Coming Soon:
+- Go
+- Ruby
+- Shell / Bash
+- C / C++ / C#
+
 
 ## Generator
 It generates the length of the word, which can be set via the variables min and max.
