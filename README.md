@@ -1,7 +1,18 @@
 # ReadableNameGenerator
 A simple name generator that can generate readable names
 
+## Example
 
+```java
+public static void main(String[] args) {
+        for (int i = 0; i < 100; i++) {
+            System.out.println(new NameGenerator().generate());
+        }
+    }
+```
+
+
+## Generator
 ```java
 private String[] starts = {"a", "b", "c", "d", "e", "f", "g", "i", "j", "k", "l", "m", "n", "o", "r", "p", "s", "t", "u"};
     private HashMap<String, String[]> speakable = new HashMap<String, String[]>() {{
