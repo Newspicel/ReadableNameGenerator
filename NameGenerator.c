@@ -76,8 +76,3 @@ char *generate() {
 
   return name;
 }
-
-int main(void) {
-  // char* name = generate();
-  // printf("%s", name);
-}
