@@ -11,12 +11,13 @@ This Generator exist in:
 - Python
 - Rust
 - PHP
+- C (from [ramy-zemo](https://github.com/ramy-zemo))
 
 Coming Soon:
 - Go
 - Ruby
 - Shell / Bash
-- C / C++ / C#
+- C++ / C#
 
 
 ## Generator
