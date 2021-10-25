@@ -12,9 +12,9 @@ This Generator exist in:
 - Rust
 - PHP
 - C (from [ramy-zemo](https://github.com/ramy-zemo))
+- Go (from OpenAI davinci-codex)
 
 Coming Soon:
-- Go
 - Ruby
 - Shell / Bash
 - C++ / C#
