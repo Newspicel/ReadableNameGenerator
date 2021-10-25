@@ -12,9 +12,9 @@ This Generator exist in:
 - Rust
 - PHP
 - C (from [ramy-zemo](https://github.com/ramy-zemo))
-- Go (from OpenAI davinci-codex)
-- C++ (from OpenAI davinci-codex)
-- C# (from OpenAI davinci-codex)
+- Go (from [OpenAI](https://github.com/openai) [davinci-codex](https://openai.com/blog/openai-codex/))
+- C++ (from [OpenAI](https://github.com/openai) [davinci-codex](https://openai.com/blog/openai-codex/))
+- C# (from [OpenAI](https://github.com/openai) [davinci-codex](https://openai.com/blog/openai-codex/))
 
 
 Coming Soon:
