@@ -14,11 +14,12 @@ This Generator exist in:
 - C (from [ramy-zemo](https://github.com/ramy-zemo))
 - Go (from OpenAI davinci-codex)
 - C++ (from OpenAI davinci-codex)
+- C# (from OpenAI davinci-codex)
+
 
 Coming Soon:
 - Ruby
 - Shell / Bash
-- C#
 
 
 ## Generator
