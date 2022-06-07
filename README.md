@@ -56,3 +56,6 @@ speakable ={
 ```
 
 This is the most important part of this project. Here you can see which letter the words start with and which letter can be followed by which letter.
+
+### Python:
+![](raycast-untitled.png)
